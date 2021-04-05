@@ -1,0 +1,373 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.menu ul li a {
+    	padding: 0 !important;
+    	font-size: 20px;
+   	 	text-align: right;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner {
+    	padding-top: 30px;
+    	padding-bottom: 50px;
+    }
+	.b-content {
+		margin-top: 0;
+	}
+	.b-content h1 {
+    	font-size: 35px;
+	}
+	.b-content p {
+    	margin: 20px 0;
+    	font-size: 18px;
+	}
+	.button {
+    	margin-right: 0;
+    	padding: 10px 10px;
+    	font-size: 16px;
+	}
+	/*service start*/
+	.our-service {
+    	padding-top: 30px;
+    	padding-bottom: 40px;
+	}
+	.b-content {
+    	margin-top: 20px;
+	}
+	.b-content h2 {
+    	font-size: 30px;
+	}
+	/*medical-service*/
+	.medical {
+    	padding-top: 30px;
+    	padding-bottom: 40px;
+	}
+	.f-h1 {
+    	margin-bottom: 20px;
+    	font-size: 35px;
+	}
+	.f-p1 {
+    	font-size: 18px;
+    }
+    .f-content {
+    	margin-top: 40px;
+	}
+	.f-h2 {
+    	margin-top: 20px;
+    	font-size: 30px;
+	}
+	.f-p2 {
+    	font-size: 18px;
+	}
+	/*buy start*/
+	.price {
+    	margin-top: 10px;
+    	font-size: 30px;
+	}
+	.custom-strike {
+    	margin-right: 10px;
+	}
+	.button-buy {
+    	padding: 12px 30px;
+    	font-size: 20px;
+	}
+	/*team start*/
+	.s_icon {
+    	font-size: 0px;
+	}
+	.p-icon {
+    	height: 20px;
+    	width: 20px;
+    	font-size: 15px;
+	}
+	/*service start*/
+	.service-content {
+    	margin-top: 0;
+	}
+	.font {
+		margin-bottom: 15px;
+    	font-size: 30px;
+	}
+	.s-p {
+    	font-size: 16px;
+	}
+	.s-h2 {
+    	font-size: 20px;
+    }
+    /*post start*/
+    .post {
+    	padding-top: 40px;
+    	padding-bottom: 50px;
+	}
+    .p-h2 {
+    	margin-top: 30px;
+    	font-size: 24px;
+    	letter-spacing: 1px;
+	}
+	.f-p4 {
+    	letter-spacing: 0;
+	}
+	/*footer start*/
+	footer{
+		padding-top: 40px;
+		padding-bottom: 50px;
+	}
+	.content-f {
+    	margin-top: 40px;
+    	text-align: center;
+	}
+	.f-1 p {
+    	font-size: 15.6px;
+	}
+	.content-f h3 {
+    	font-size: 32px;
+	}
+	.content-f p {
+    	font-size: 18px;
+	}
+	.content-f form button {
+    	padding: 10px 30px;
+    	border-radius: 0;
+	}
+	.fs_icon {
+	    font-size: 20px;
+	}
+	.r-icon {
+    	height: 25px;
+    	width: 25px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.menu ul li a {
+    	padding: 0 !important;
+   	 	text-align: right;
+	}
+	/*header end*/
+	/*banner start*/
+	.b-content {
+		margin-top: 0;
+	}
+	.b-content h1 {
+    	font-size: 45px;
+	}
+	.b-content p {
+    	margin: 30px 0;
+    	font-size: 22px;
+	}
+	/*service start*/
+	.our-service {
+    	padding-top: 30px;
+    	padding-bottom: 40px;
+	}
+	.b-content {
+    	margin-top: 20px;
+	}
+	.b-content h2 {
+    	font-size: 38px;
+	}
+	/*medical-service*/
+	.medical {
+    	padding-top: 30px;
+    	padding-bottom: 40px;
+	}
+	.f-h1 {
+    	margin-bottom: 20px;
+    	font-size: 45px;
+	}
+	.f-p1 {
+    	font-size: 22px;
+    }
+    .f-content {
+    	margin-top: 40px;
+	}
+	.f-h2 {
+    	margin-top: 40px;
+    	font-size: 24px;
+	}
+	.f-p2 {
+    	font-size: 18px;
+	}
+	/*buy start*/
+	.price {
+    	margin-top: 10px;
+    	font-size: 30px;
+	}
+	.custom-strike {
+    	margin-right: 10px;
+	}
+	.button-buy {
+    	padding: 12px 30px;
+    	font-size: 20px;
+	}
+	/*team start*/
+	.s_icon {
+    	font-size: 0px;
+	}
+	.p-icon {
+    	height: 27px;
+    	width: 27px;
+    	font-size: 20px;
+	}
+	/*service start*/
+	.service-content {
+    	margin-top: 8px;
+	}
+	.font {
+    	font-size: 80px;
+	}
+	.s-p {
+    	font-size: 30px;
+	}
+	.s-h2 {
+    	font-size: 32px;
+    }
+    /*post start*/
+    .p-h2 {
+    	margin-top: 30px;
+    	font-size: 24px;
+    	letter-spacing: 1px;
+	}
+	.f-p4 {
+    	letter-spacing: 0;
+	}
+	/*footer start*/
+	.content-f {
+    	margin-top: 40px;
+    	text-align: center;
+	}
+	.content-f h3 {
+    	font-size: 32px;
+	}
+	.content-f p {
+    	font-size: 18px;
+	}
+	.content-f form button {
+    	padding: 10px 30px;
+    	border-radius: 0;
+	}
+	.fs_icon {
+	    font-size: 20px;
+	}
+	.r-icon {
+    	height: 25px;
+    	width: 25px;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a {
+    	padding: 0 !important;
+   	 	text-align: right;
+	}
+	/*banner start*/
+	.banner {
+    	padding-top: 30px;
+    	padding-bottom: 20px;
+    }
+	.b-content h1 {
+    	font-size: 50px ;
+	}
+	.b-content p {
+    	font-size: 22px;
+	}
+	/*service start*/
+	.our-service {
+    	padding-top: 30px;
+    	padding-bottom: 40px;
+	}
+	.b-content {
+    	margin-top: 20px;
+	}
+	.b-content h2 {
+    	font-size: 38px;
+	}
+	/*medical-service*/
+	.medical {
+    	padding-top: 40px;
+    	padding-bottom: 50px;
+	}
+	.f-h1 {
+    	margin-bottom: 20px;
+    	font-size: 50px;
+	}
+	.f-p1 {
+    	font-size: 22px;
+    }
+    .f-content {
+    	margin-top: 40px;
+	}
+	.f-h2 {
+    	margin-top: 40px;
+    	font-size: 24px;
+	}
+	.f-p2 {
+    	font-size: 18px;
+	}
+	/*buy start*/
+	.price {
+    	margin-top: 20px;
+    	font-size: 30px;
+	}
+	.custom-strike {
+    	margin-right: 10px;
+	}
+	.button-buy {
+    	padding: 12px 30px;
+    	font-size: 20px;
+	}
+	/*team start*/
+	.s_icon {
+    	font-size: 0px;
+	}
+	.p-icon {
+    	height: 27px;
+    	width: 27px;
+    	font-size: 20px;
+	}
+	/*service start*/
+	.service-content{
+		margin-top: 10px;
+	}
+	.font {
+    	font-size: 80px;
+	}
+	.s-p {
+    	font-size: 30px;
+	}
+	.s-h2 {
+    	font-size: 32px;
+    }
+    /*post start*/
+    .p-h2 {
+    	margin-top: 30px;
+    	font-size: 20px;
+    	letter-spacing: 1px;
+	}
+	.f-p4 {
+    	letter-spacing: 0;
+	}
+	/*footer start*/
+	.content-f {
+    	margin-top: 40px;
+    	text-align: center;
+	}
+	.fs_icon {
+	    font-size: 30px;
+	}
+	.r-icon {
+    	height: 40px;
+    	width: 40px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
